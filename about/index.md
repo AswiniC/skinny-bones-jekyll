@@ -12,4 +12,4 @@ share: false
 ads: false
 ---
 
-Yokhi International distributes vermicompost all over the state. We took this project to encourage organic farming and better living of people.
+Yokhi International distributes vermicompost all over the state. We took this project to encourage organic farming and for better living of people.
