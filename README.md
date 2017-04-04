@@ -6,10 +6,12 @@ Vermicomposting uses earthworms to turn organic wastes into very high quality co
 
 ---
 
-## Notable Features
+## Benefits
 
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+*Improves soil aeration
+*Enriches soil with micro-organisms (adding enzymes such as phosphatase and cellulase)
+*Improves water holding capacity
+*Enhances germination, plant growth, and crop yield
+*Helps to close the "metabolic gap" through recycling waste on-site
+
+
