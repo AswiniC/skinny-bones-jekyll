@@ -8,11 +8,10 @@ Vermicomposting uses earthworms to turn organic wastes into very high quality co
 
 ## Benefits
 
-Markup:
-*Improves soil aeration
-*Enriches soil with micro-organisms (adding enzymes such as phosphatase and cellulase)
-*Improves water holding capacity
-*Enhances germination, plant growth, and crop yield
-*Helps to close the "metabolic gap" through recycling waste on-site
+* Improves soil aeration
+* Enriches soil with micro-organisms (adding enzymes such as phosphatase and cellulase)
+* Improves water holding capacity
+* Enhances germination, plant growth, and crop yield
+* Helps to close the "metabolic gap" through recycling waste on-site
 
 
