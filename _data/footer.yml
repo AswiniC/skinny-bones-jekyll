@@ -2,10 +2,10 @@
 
 - title: Home
   url: /
-
-- title:Home
-  url: /home/
-
+  
+- title: Products
+  url: /products/
+  
 - title: About
   url: /about/
 
