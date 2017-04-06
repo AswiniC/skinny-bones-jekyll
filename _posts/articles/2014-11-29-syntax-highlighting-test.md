@@ -5,7 +5,7 @@ modified:
 categories: articles
 excerpt: "Demo post to test the various ways of using syntax highlighting."
 tags: []
-image:![alt tag](https://github.com/AswiniC/skinny-bones-jekyll/blob/gh-pages/images/what.jpg)
+image:
   feature:
   teaser:
   thumb:
