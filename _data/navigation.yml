@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: Vermicompost
-  url: /gettingstarted/
+  url: /getting-started/
   excerpt: "what is vermicomposting"
   image: 400x250.gif
 
 - title: Products
-  url: /samplea/
+  url: /articles/
   excerpt: "Our products"
   image: 400x250.gif
 
@@ -16,6 +16,6 @@
   image: 400x250.gif
 
 - title: Contact Us
-  url: /contactus/
+  url: /media/
   excerpt: "Contact address"
   image: 400x250.gif
