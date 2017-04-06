@@ -8,7 +8,7 @@ tags: []
 image:
   feature: 
   teaser:
-  thumb:what.jpg
+  thumb: what.jpg
 share: false
 ---
 
