@@ -3,7 +3,7 @@ layout: archive
 title: "Products"
 date: 2014-05-30T11:39:03-04:00
 modified:
-excerpt: "Currently we are offering nutrient rich manure from earth-worms."
+excerpt:
 tags: []
 image:
   feature:
