@@ -6,9 +6,9 @@ modified: 2016-06-01T16:21:57-04:00
 excerpt:
 tags: []
 image:
-  feature: what.jpg
+  feature: 
   teaser:
-  thumb:
+  thumb:what.jpg
 share: false
 ---
 
