@@ -6,8 +6,8 @@ categories: articles
 excerpt: "Demo post to test the various ways of using syntax highlighting."
 tags: []
 image:
-  feature:
-  teaser:
+  feature:worm2.jpg
+  teaser:worm2.jpg
   thumb:
 date: 2014-11-29T22:08:14-05:00
 ---
