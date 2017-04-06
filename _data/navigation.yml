@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+- title: Vermicompost
+  url: /vermicompost/
+  excerpt: "what is vermicomposting"
   image: 400x250.gif
 
-- title: Sample Articles
-  url: /articles/
-  excerpt: "Examples of long form posts."
-  image: 400x250.gif
-
-- title: Media
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+- title: Products
+  url: /products/
+  excerpt: "Our products"
   image: 400x250.gif
 
 - title: About
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "about us"
+  image: 400x250.gif
+
+- title: Contact Us
+  url: /contact us/
+  excerpt: "Contact address"
   image: 400x250.gif
