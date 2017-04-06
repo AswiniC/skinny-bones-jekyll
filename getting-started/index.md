@@ -14,5 +14,5 @@ share: false
 
 The basics for getting Skinny Bones setup.
 
-{% include toc.html %}
+
 
