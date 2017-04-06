@@ -4,6 +4,11 @@
   url: /getting-started/
   excerpt: "what is vermicomposting"
   image: 400x250.gif
+  
+- title: Products
+  url: /articles/
+  excerpt: "Products"
+  image: 400x250.gif
 
 - title: About
   url: /about/
