@@ -269,9 +269,9 @@
 	@include fill-parent;
 	// expand image to cover full width of header
 	img {
-		display: inline;
+		display: block;
     margin: auto;
-    width: 30%;
+    width: 450px;
 	}
 }
 // make image flush with edges on small screens
