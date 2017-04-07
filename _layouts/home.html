@@ -33,14 +33,26 @@
     {% include header.html %}
     {% include navigation-sliding.html %}
 
-    {% if page.image.feature %}
-    <div class="page-lead" style="background-image:url('http://hindi.tipofindia.com/wp-content/uploads/2016/09/Organic-farming.jpg')">
+    <!{% if page.image.feature %}
+    <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">-->
       <div class="wrap page-lead-content">
-        <h1> &nbsp; Yokhi  &nbsp; </h1>
-        <h2>Jump start your farming with our nutrient-rich organic manure.
-        </h2>
-        <h3>Save the soil</h3>
-        
+        <h1>Yokhi International</h1>
+        <h2>Jump start your farming with nutrient-rich organic manure.</h2>
+        # Vermicomposting
+
+Vermicomposting uses earthworms to turn organic wastes into very high quality compost.It contains water-soluble nutrients and is an excellent, nutrient-rich organic fertilizer and soil conditioner.
+
+![screenshot of Skinny Bones](http://hindi.tipofindia.com/wp-content/uploads/2016/09/Organic-farming.jpg)
+
+---
+
+## Benefits
+
+* Improves soil aeration
+* Enriches soil with micro-organisms (adding enzymes such as phosphatase and cellulase)
+* Improves water holding capacity
+* Enhances germination, plant growth, and crop yield
+* Helps to close the "metabolic gap" through recycling waste on-site
 
 
        <!-- <a href="{{ site.url }}/getting-started/" class="btn-inverse">Start Using Skinny Bones</a> &nbsp; or &nbsp; <a href="https://github.com/mmistakes/skinny-bones-jekyll" class="btn-inverse">View on GitHub</a>
