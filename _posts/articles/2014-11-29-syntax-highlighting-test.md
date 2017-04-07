@@ -6,9 +6,9 @@ categories: articles
 excerpt: "Organic Earth-Worm Manure"
 tags: []
 image:
-  feature: worm2.jpg
+  feature: 
   teaser: worm2.jpg
-  thumb:
+  thumb: worm2.jpg
 
 ---
 We deliver vermicompost fertilizer to increase the soil fertility and for increased productivity of plants.
