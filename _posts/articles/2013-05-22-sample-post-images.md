@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "Kopara"
+title: "Coconut Products"
 categories: articles
-excerpt: "Sample products"
+excerpt: "Coconut products"
 tags: [sample, images, test]
 ads: true
 ---
 
-Sample text........ Kopara
+Sample text........ copara,coir,cocopet
