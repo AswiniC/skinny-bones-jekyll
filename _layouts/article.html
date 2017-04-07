@@ -4,7 +4,11 @@ layout: default
 
 <div id="main" role="main">
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
-		{% if page.image.feature %}
+		{% include breadcrumbs.html %}
+		<div class="page-title">
+			<h1>{{ page.title }}</h1>
+		</div>
+    {% if page.image.feature %}
 		<div class="page-feature">
 			<div class="page-image">
 				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
@@ -12,10 +16,6 @@ layout: default
 			</div><!-- /.page-image -->
 		</div><!-- /.page-feature -->
 		{% endif %}
-		{% include breadcrumbs.html %}
-		<div class="page-title">
-			<h1>{{ page.title }}</h1>
-		</div>
 		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
@@ -33,3 +33,4 @@ layout: default
 		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
 	</article><!-- ./wrap -->
 </div><!-- /#main -->
+<!--html for vermicompost-->
