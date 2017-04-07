@@ -8,7 +8,7 @@
 
 #masthead {
 	padding: $gutter;
-	z-index: 5;
+	z-index: 5;F
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
 	&.slide {
@@ -269,9 +269,9 @@
 	@include fill-parent;
 	// expand image to cover full width of header
 	img {
-		display: block;
-    margin: auto;
-    width: 450px;
+		//display: block;
+    //margin: auto;
+    //width: 450px;
 	}
 }
 // make image flush with edges on small screens
