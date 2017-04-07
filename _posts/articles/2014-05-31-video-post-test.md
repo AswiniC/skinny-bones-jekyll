@@ -1,15 +1,15 @@
 ---
 layout: article
 title: "Tamarind"
-date: 2014-05-31T23:14:02-04:00
+
 modified:
 categories: articles
 excerpt: "Tamarind Products"
 tags: 
 ads: true
-image:
-  feature:
+image: 
+  feature: tam.jpg
   teaser:
 ---
 
-TEST TEXT
+We supply fresh, deliciously tangy and fine quality  Tamarind. Hygenically processed and packed with care. We do take bulk orders on demand.
