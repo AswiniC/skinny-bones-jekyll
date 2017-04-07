@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: /
-image:
+image: Organic-farming.jpg
   feature: 
 ---
-Yokhi International took great step towards green eco-friendly earth. We deliver agro products (such as.,Vermicompost Fertilizer,Coconut Products,Tamarind)in bulk with Superior Quality. 
+
 <div class="tiles">
 
 <div class="tile">
